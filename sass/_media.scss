@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+	.navbar-io .navbar-nav > li > a {
+	  	color: #b7b7b8;
+	  	padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	#contact{
+		#localizacao{
+			margin-top: 15%;		
+		}
+	}
+}
+@media (max-width: 992px) {
+	footer{
+		text-align: center;
+	}
+	.navbar-io {
+	  font-size:13px;
+	}
+	#contact .contact-form textarea {
+		margin-top: 5%;
+	}
+}
+@media (max-width: 1200px) {
+
+}
+
+

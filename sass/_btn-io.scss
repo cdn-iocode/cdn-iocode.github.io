@@ -1,0 +1,44 @@
+.btn-io { 
+  color: #ffffff; 
+  background-color: #18ADBF; 
+  border-color: #18ADBF; 
+} 
+ 
+.btn-io:hover, 
+.btn-io:focus, 
+.btn-io:active, 
+.btn-io.active, 
+.open .dropdown-toggle.btn-io { 
+  color: #ffffff; 
+  background-color: #0b3e58; 
+  border-color: #18ADBF; 
+} 
+ 
+.btn-io:active, 
+.btn-io.active, 
+.open .dropdown-toggle.btn-io { 
+  background-image: none; 
+} 
+ 
+.btn-io.disabled, 
+.btn-io[disabled], 
+fieldset[disabled] .btn-io, 
+.btn-io.disabled:hover, 
+.btn-io[disabled]:hover, 
+fieldset[disabled] .btn-io:hover, 
+.btn-io.disabled:focus, 
+.btn-io[disabled]:focus, 
+fieldset[disabled] .btn-io:focus, 
+.btn-io.disabled:active, 
+.btn-io[disabled]:active, 
+fieldset[disabled] .btn-io:active, 
+.btn-io.disabled.active, 
+.btn-io[disabled].active, 
+fieldset[disabled] .btn-io.active { 
+  background-color: #18ADBF; 
+  border-color: #18ADBF; 
+}  
+.btn-io .badge { 
+  color: #18ADBF; 
+  background-color: #ffffff; 
+}

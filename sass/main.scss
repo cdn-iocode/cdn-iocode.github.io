@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+@import "btn-io";
+@import "header";
+@import "navbar";
+@import "three-box";
+@import "about";
+@import "contact";
+@import "footer";
+
+a{
+	text-decoration:none;
+}
+
+a:hover, a:focus{
+	text-decoration:none;
+}
+
+.title{
+	font-size:30px;
+	color: #0b3e58;
+	font-weight:bold;
+}
+.sub-title{
+	font-size:16px;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+
+@import "media";
